@@ -90,8 +90,7 @@
 }
 
 body {
-  background-image: url("background.jpg");
-  background-size: cover;
+  background-color: 
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;      
